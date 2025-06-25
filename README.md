@@ -11,6 +11,10 @@
 Abaixo, um pequeno resumo dos materiais disponíveis para te ajudar a navegar no repositório:
 
 1. **aula2** -> códigos desenvolvidos na Aula #2 sobre `variáveis`
+2. **aula3** -> códigos desenvolvidos na Aula #3 sobre `condicionais`
+
+> [!NOTE]
+> A pasta **`respostas`** contém as respostas dos desafios, separados por aula - use esses códigos para comparar com _suas_ soluções 😉
 
 ## ☕ Material de apoio
 
