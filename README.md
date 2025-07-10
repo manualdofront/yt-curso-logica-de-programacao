@@ -13,6 +13,7 @@ Abaixo, um pequeno resumo dos materiais disponíveis para te ajudar a navegar no
 1. **aula2** -> códigos desenvolvidos na Aula #2 sobre `variáveis`
 2. **aula3** -> códigos desenvolvidos na Aula #3 sobre `condicionais`
 2. **aula4** -> códigos desenvolvidos na Aula #4 sobre `laços de repetição`
+2. **aula5** -> exemplo completo que fizemos juntos usando tudo que aprendemos até agora
 
 > [!NOTE]
 > A pasta **`respostas`** contém as respostas dos desafios, separados por aula - use esses códigos para comparar com _suas_ soluções 😉
