@@ -1,4 +1,4 @@
-# Exemplos básicos - Introdução aos Testes Unitários
+# Curso Lógica de Programação - Manual do Front
 
 <a href="https://www.youtube.com/watch?v=z4rG1Rq63vQ&list=PLRVYQGMz5x2YbdGSpsdLIejpo7uBUCjRm&index=2" target="_blank">
  <img src="http://img.youtube.com/vi/z4rG1Rq63vQ/mqdefault.jpg" alt="Watch the video" border="10" />
